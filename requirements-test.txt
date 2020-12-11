@@ -1,5 +1,5 @@
 -r requirements-tox.txt
 djangorestframework==3.9
 django==1.11.17
-mock==2.0.0
+mock==4.0.3
 pytest==2.6.4
